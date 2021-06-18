@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+}
+.card{
+    background-color: rgb(47, 107, 107);
+}
+label {
+    color :white;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+.none {
+ display: none;
+}
+.btn{
+    padding : 0px;
+}
+.check{
+    background-color:royalblue;
+    text-decoration: line-through;
+}
+.block{
+   display: block;
+}
